@@ -65,6 +65,7 @@ public class CoffeeStore {
                 case "3":
                     System.out.println("3. delete product");
                     System.out.println("delete successl");
+                    System.out.println("add something");
                     break;
                 case "4":
                     System.out.println("4. insert money");
